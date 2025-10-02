@@ -65,4 +65,3 @@ As regras de cálculo devem ser baseadas em fontes oficiais e atualizadas:
 
 ## 📄 Licença
 Este projeto é de uso livre para estudo e aprendizado.
-```
